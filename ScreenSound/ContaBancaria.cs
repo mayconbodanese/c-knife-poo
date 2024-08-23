@@ -1,15 +1,15 @@
 ﻿class ContaBancaria
 {
-    public int numeroIndicador;
-    public string titular;
-    public double saldo;
-    public string senha;
+    public int NumeroIndicador { get; }
+    public string Titular { get; }
+    public double Saldo { get; set; }
+    public string Senha { get; set; }
 
     public void ExibirInformacoes()
     {
         Console.WriteLine($@"
-        Titular: {titular}
-        Saldo: {saldo}
+        Titular: {Titular}
+        Saldo: {Saldo}
     ");
     }
 }
