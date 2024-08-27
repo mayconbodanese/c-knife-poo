@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trenddev04\\Source\\Repos\\c-knife-poo\\ScreenSound\\ScreenSound.csproj",
+      "projectUniqueName": "C:\\Users\\trenddev04\\source\\repos\\c-knife-poo\\ScreenSound\\ScreenSound.csproj",
       "projectName": "ScreenSound",
-      "projectPath": "C:\\Users\\trenddev04\\Source\\Repos\\c-knife-poo\\ScreenSound\\ScreenSound.csproj",
+      "projectPath": "C:\\Users\\trenddev04\\source\\repos\\c-knife-poo\\ScreenSound\\ScreenSound.csproj",
       "packagesPath": "C:\\Users\\trenddev04\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trenddev04\\Source\\Repos\\c-knife-poo\\ScreenSound\\obj\\",
+      "outputPath": "C:\\Users\\trenddev04\\source\\repos\\c-knife-poo\\ScreenSound\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trenddev04\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
